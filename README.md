@@ -6,7 +6,8 @@ This project focuses on analyzing customer churn behavior using SQL to identify 
 ---
 
 ## Dashboard Preview
-![Customer Churn Dashboard](dashboard.png)
+![Customer Churn Dashboard](E-commerce%20Customer%20Churn%20Dashboard.PNG)
+
 
 
 
