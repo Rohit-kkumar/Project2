@@ -4,7 +4,6 @@ Welcome to the Customer Churn Analysis project repository.
 This project focuses on analyzing customer churn behavior using SQL to identify patterns, understand customer activity, and generate insights that support data-driven decision-making.
 
 ---
-
 ## Dashboard Preview
 ![Customer Churn Dashboard](E-commerce%20Customer%20Churn%20Dashboard.PNG)
 
