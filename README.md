@@ -1,15 +1,51 @@
 # Ecommerce Customer Churn Analysis Using SQL
 
-Welcome to the Customer Churn Analysis Project repository! This project aims to analyze customer churn patterns and provide insights and recommendations to reduce churn rates. The analysis is based on a dataset containing various customer attributes and behaviors.
+Welcome to the Customer Churn Analysis project repository.  
+This project focuses on analyzing customer churn behavior using SQL to identify patterns, understand customer activity, and generate insights that support data-driven decision-making.
 
+---
 
-### Full Project Article
-This repository contains the SQL Query written to analyze this dataset.
+## Dashboard Preview
+![Customer Churn Dashboard](E-commerce Customer Churn Dashboard.PNG)
 
-For a detailed description of the project, insights, and recommendations, please check out the full article on Medium. The article provides a comprehensive analysis of the customer churn patterns and offers valuable recommendations to reduce churn rates. You can find the article using the link below:
+---
 
-[Medium Article](https://medium.com/@okon.judith/e-commerce-customer-churn-analysis-using-sql-a34a95c4a367)
+## About
+This project analyzes customer churn data to explore customer behavior, usage patterns, and retention trends.  
+The goal is to understand factors influencing churn and derive meaningful business insights from structured datasets.
 
-Feel free to reach out to me with any questions or suggestions regarding the project or the analysis.
+---
 
-Happy analyzing!
+## Dataset
+The dataset includes customer demographics, account information, engagement metrics, and transaction details used to analyze churn patterns and customer retention.
+
+---
+
+## Key Analysis Areas
+- Customer segmentation and churn behavior
+- Customer usage trend analysis
+- Engagement and retention insights
+- Demographic-based analysis
+
+---
+
+## Tools Used
+- SQL
+- Microsoft Excel
+- Exploratory Data Analysis (EDA)
+
+---
+
+## Key Insights
+- Identified customer groups with higher churn probability
+- Observed behavioral patterns impacting retention
+- Analyzed engagement trends across different customer segments
+- Generated structured insights for business interpretation
+
+---
+
+## Project Structure
+EcommerceCustomerChurnAnalysis.sql  → SQL queries used for analysis  
+ecommerce_churn.csv                 → Dataset file  
+E-commerce Customer Churn Dashboard.PNG → Dashboard visualization
+
