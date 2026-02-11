@@ -36,10 +36,10 @@ The dataset includes customer demographics, account information, engagement metr
 
 ---
 
-## Tools Used
-- SQL
-- Microsoft Excel
-- Exploratory Data Analysis (EDA)
+SQL
+Microsoft Excel (Data Preparation)
+EDA (Exploratory Data Analysis)
+
 
 ---
 
